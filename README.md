@@ -1,4 +1,4 @@
-# 📋 Task Manager App
+# 📋 Taskify - Task Manager App
 
 <div align="center">
 
