@@ -425,10 +425,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- Portfolio: [portfolio.com](https://aditya-s-porfolio.netlify.app/)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/Aditya41150)
+- GitHub: [@Aditya41150](https://github.com/Adtiay41150)
+- Email: singhadi437@gmail.com =
 
 ---
 
